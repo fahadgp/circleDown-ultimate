@@ -172,9 +172,9 @@ right:2px;
 	-moz-transition: 0.3s ease;
 	transition: 0.3s ease;
 }
-#thumbNail0{background:url('plugin/img/home.png') no-repeat center center;} 
-#thumbNail1{background:url('plugin/img/info.png') no-repeat center center;}
-#thumbNail2{background:url('plugin/img/mail.png') no-repeat center center;}
+#thumbNail0{background:url('img/home.png') no-repeat center center;} 
+#thumbNail1{background:url('img/info.png') no-repeat center center;}
+#thumbNail2{background:url('img/mail.png') no-repeat center center;}
 
 
 
